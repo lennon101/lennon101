@@ -26,7 +26,7 @@ Environmental Industry | Embedded Systems & Firmware R&D
 - [Shelly-Scripts](https://github.com/lennon101/Shelly-Scripts)
 
 ## ⚡ Fun Facts
-- Ultra-distance runner training for the Tarawera 100 Mile Trail Ultra
+- Ultra-distance runner training for the next big race
 - Military veteran: 8 years service, Afghanistan deployment
 - Passionate about electronics, home automation, and environmental sensing
 - Dedicated running coach helping athletes achieve their goals
