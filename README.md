@@ -1,4 +1,4 @@
-# 👋 Hi, I''m Lennon101!
+# 👋 Hi, I'm Lennon101!
 
 ## 👨‍💻 Profession
 **R&D Engineer**  
