@@ -1,4 +1,4 @@
-# 👋 Hi, I''m Dane!
+# 👋 Hi, I''m Lennon101!
 
 ## 👨‍💻 Profession
 **R&D Engineer**  
@@ -12,8 +12,8 @@ Environmental Industry | Embedded Systems & Firmware R&D
 - **Data Analysis & Visualization:** Grafana, Python, NoSQL, Postgres
 
 ## 🚀 Favorite Projects
-- **Testing Jig Design:**  
-  Firmware and hardware prototyping for manufacturing test automation.
+- **Full Stack Embedded Systems Design:**  
+  Firmware and hardware prototyping for environmental sensors and calibration sytems
 - **Calibration & Analysis Tools:**  
   Python & MongoDB-based data analysis suite, integrated with Atmel Studio for device calibration.
 - **Home Automation Stack:**  
