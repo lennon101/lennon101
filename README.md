@@ -20,8 +20,6 @@ Environmental Industry | Embedded Systems & Firmware R&D
   End-to-end smart home setup with Home Assistant, Plex, Paperless-NGX, Zigbee2MQTT.
 
 ## 🔬 Selected Repositories
-- [logseq](https://github.com/lennon101/logseq)
-- [immich-kiosk](https://github.com/lennon101/immich-kiosk)
 - [lennon101.github.io](https://github.com/lennon101/lennon101.github.io)
 - [Shelly-Scripts](https://github.com/lennon101/Shelly-Scripts)
 
