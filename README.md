@@ -21,6 +21,7 @@ Environmental Industry | Embedded Systems & Firmware R&D
 
 ## 🔬 Selected Repositories
 - [lennon101.github.io](https://github.com/lennon101/lennon101.github.io)
+- [DIY-Weather-Station](https://github.com/lennon101/DIY-Weather-Station)
 - [Shelly-Scripts](https://github.com/lennon101/Shelly-Scripts)
 
 ## ⚡ Fun Facts
